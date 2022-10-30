@@ -167,3 +167,16 @@ a{
         margin-top: 160px;
     }
 }
+@media(max-width: 1025px) {
+    .main_title2 p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .main_title p{
+        font-size: 28px;
+        
+    }
+    .main_title .member_count{
+        font-size: 36px;
+    }
+}
