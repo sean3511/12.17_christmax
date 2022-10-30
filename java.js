@@ -16,5 +16,5 @@ function (data) {
     // document.write("--------------------------<br>");
     // document.write(data);
     // document.write("--------------------------<br>");
-    $('.member_count').text(data);
+    $('.member_count').text(parseInt(data)+21);
 });
